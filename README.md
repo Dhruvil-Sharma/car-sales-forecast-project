@@ -4,14 +4,6 @@ This project delivers a comprehensive forecasting dashboard designed to help a c
 
 ---
 
-### 🚀 Live Demo
-
-[**Insert a GIF of your running Streamlit application here. This is highly recommended!**]
-
-*(To create a GIF, you can use a free tool like ScreenToGif or Giphy Capture to record your screen while you use the dashboard's features.)*
-
----
-
 ### ✨ Key Features
 
 -   **3-Month KPI Forecasting:** Utilizes a SARIMAX time-series model to predict all business KPIs for the next three months.
