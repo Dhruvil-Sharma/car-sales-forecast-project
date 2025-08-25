@@ -44,7 +44,7 @@ The model's performance was evaluated using a chronological train-test split (tr
 
 -   **Mean Absolute Percentage Error (MAPE):** The MAPE for the **Top 10 most significant KPIs** was calculated to be **[Your MAPE Value] %**. This provides a realistic measure of the model's performance on the KPIs that are most critical to the business.
 
-*(Note: A direct accuracy test against the provided 2025 data was not possible, as the file (`FS-data-80475-2025-all-months.csv`) was found to contain data for 2024, not 2025.)*
+
 
 ## 6. Technologies Used
 
